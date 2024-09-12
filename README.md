@@ -24,11 +24,3 @@ Dice numbers are: 6 and 3
 Roll the Dice ?? (Y/N): n
 Thanks for playing!!
 
-
-
-### Explanation:
-- **`#`** creates headers.
-- **Lists** and **code blocks** are used to make it clear and easy to read.
-- **Emoji** adds a touch of visual appeal if supported by the platform.
-
-Feel free to adjust any sections as needed!
